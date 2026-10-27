@@ -1,2 +1,7 @@
-# AiBo
-Human-inspired Counter-Strike 1.6 bots based on YaPB: hybrid navigation, Human Aim, 42 profiles and lightweight local learning.
+# AiBo publication draft
+
+This temporary repository was created while preparing the AiBo 4.3.3 publication. The project is published in the actual YaPB fork:
+
+**[keinzwei/AiBo](https://github.com/keinzwei/AiBo)**
+
+Use that repository for source code, releases, documentation, credits and issue reports.
